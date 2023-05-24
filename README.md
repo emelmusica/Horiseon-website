@@ -1,4 +1,4 @@
-
+For this assignment I wanted to challenge myself and try do it on my own, so I spent a great deal of my time on this googling what the results could be. I worked on this alone with the exception of a few questions asked on the open class session with TA Sandesh. 
 Week One HW Assignment
 
 USER STORY:
